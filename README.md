@@ -6,4 +6,4 @@
 
 
 
-<img src="./app.gif">
+<img src="./images/app.gif">
